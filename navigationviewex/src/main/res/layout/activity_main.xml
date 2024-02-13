@@ -16,6 +16,12 @@
             android:layout_gravity="center_vertical"
             android:gravity="center"
             android:text="메인화면"/>
+        <com.google.android.material.floatingactionbutton.ExtendedFloatingActionButton
+            android:id="@+id/extendedFab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="extended FAB"
+            app:icon="@android:drawable/ic_input_add"/>
     </LinearLayout>
 
     <com.google.android.material.navigation.NavigationView
