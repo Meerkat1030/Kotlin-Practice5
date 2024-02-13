@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/coroutineex" />
             <option value="$PROJECT_DIR$/materialex" />
             <option value="$PROJECT_DIR$/navigationviewex" />
             <option value="$PROJECT_DIR$/tablayoutex" />
