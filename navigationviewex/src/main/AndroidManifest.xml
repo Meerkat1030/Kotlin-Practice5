@@ -9,7 +9,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Class20240213">
         <activity
-            android:name=".ViewPagerActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

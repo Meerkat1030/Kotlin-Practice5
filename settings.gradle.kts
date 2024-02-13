@@ -16,3 +16,4 @@ dependencyResolutionManagement {
 rootProject.name = "class20240213"
 include(":app")
 include(":tablayoutex")
+include(":navigationviewex")
