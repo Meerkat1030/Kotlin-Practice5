@@ -10,7 +10,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/ch13_activity" />
+            <option value="$PROJECT_DIR$/ch14_receiver" />
+            <option value="$PROJECT_DIR$/ch16_provider" />
+            <option value="$PROJECT_DIR$/contactsex" />
             <option value="$PROJECT_DIR$/coroutineex" />
+            <option value="$PROJECT_DIR$/gallaryex" />
             <option value="$PROJECT_DIR$/materialex" />
             <option value="$PROJECT_DIR$/navigationviewex" />
             <option value="$PROJECT_DIR$/tablayoutex" />
